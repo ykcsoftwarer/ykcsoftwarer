@@ -94,6 +94,10 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
+</br>
+<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
+<br>
+
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
 <br/>
@@ -107,6 +111,7 @@ You can click the Preview link to take a look at your changes.
      /> 
      <br/>
 </div>
+
 
 
 
