@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-(https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kucukcopur)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kucukcopur)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:yusufkucukcopur@gmail.com)
 
 <!---
@@ -93,3 +93,25 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 </br>
+
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=ykcsoftwarer&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykcsoftwarer&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
+
+
+
+
+
+
+
+
+
