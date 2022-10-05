@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" align="right" width="300"></br>
+<img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" align="right" width="350"></br>
 
 - 👋 Hi, I’m @ykcsoftwarer
 - 👀 I’m interested in ...
