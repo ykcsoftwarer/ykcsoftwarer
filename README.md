@@ -1,11 +1,17 @@
 <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" align="right" width="300"></br>
 </br>
 
-- 👋 Hi, I’m @ykcsoftwarer
+- 👋 Hi, I’m @ykcsoftwarer mechanic engineer but I find myself in software.
+🎆 Exploring routes to new visions and be a part of the new visions.
+🧐 A new age enthusiast.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... ie. IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+☕ Coffee is how I keep up with code
+
+📬 Connect with me: 
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kucukcopur)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:yusufkucukcopur@gmail.com)
 
@@ -118,7 +124,19 @@ You can click the Preview link to take a look at your changes.
 
 
 
+ReactRedux VueExpress javascript HTML5 CSS3 JQuery Bootstrap
 
+
+SassStyled ComponentMaterial UI
+
+
+Webpack
+
+
+python Django NodeJS GraphQL MongoDB PostgreSQL
+
+
+Figma Trello JIRA
 
 
 
