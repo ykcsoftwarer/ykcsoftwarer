@@ -123,20 +123,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-ReactRedux VueExpress javascript HTML5 CSS3 JQuery Bootstrap
-
-
-SassStyled ComponentMaterial UI
-
-
-Webpack
-
-
-python Django NodeJS GraphQL MongoDB PostgreSQL
-
-
-Figma Trello JIRA
-
-
-
