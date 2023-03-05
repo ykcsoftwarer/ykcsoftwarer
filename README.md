@@ -60,7 +60,6 @@ You can click the Preview link to take a look at your changes.
         alt="Styled Component"
       /> 
 </br>
-
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
@@ -69,7 +68,6 @@ You can click the Preview link to take a look at your changes.
      src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
      alt="NPM"
      />
-</br>
 </br>
 <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
@@ -83,21 +81,11 @@ You can click the Preview link to take a look at your changes.
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="PostgreSQL"
       /> 
-      <img
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-        alt="Nodejs"
-      />
 </br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
       /> 
-      <br>
-<img
-        src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-        alt="Heroku"
-      />
-</br>
 <img 
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
@@ -114,22 +102,6 @@ You can click the Preview link to take a look at your changes.
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
-</br>
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">My Projects</h2>
-
-###
-
-Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Vanilla JS Checkout App](http://127.0.0.1:5500/index.html) <h3>[Repo](https:https://github.com/ykcsoftwarer/checkout-page)</h3> | Vanilla JS, PureCSS, Local Storage |![checkout](https://user-images.githubusercontent.com/109314125/218492074-aae502e5-3045-415f-b17d-1803dacdef23.gif)
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/ykcsoftwarer/ykcsoftwarer/Todo-App)</h3> | Vanilla JS, PureCSS, Local Storage |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
-
-
-
-
-<br>
-
 
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
