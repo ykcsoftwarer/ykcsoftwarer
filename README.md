@@ -5,13 +5,19 @@
 - 👋 Hi, I’m @ykcsoftwarer mechanic engineer but I find myself in software.
 </br>
 🎆 Exploring routes to new visions and be a part of the new visions.
+</br>
 🧐 A new age enthusiast.
+</br>
 - 👀 I’m interested in ...
+- </br>
 - 🌱 I’m currently learning ... ie. IT
+- </br>
 - 💞️ I’m looking to collaborate on ...
+- </br>
 - 📫 How to reach me ...
+- </br>
 ☕ Coffee is how I keep up with code
-
+</br>
 📬 Connect with me: 
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kucukcopur)
