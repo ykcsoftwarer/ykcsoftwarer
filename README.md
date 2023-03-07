@@ -87,11 +87,6 @@ You can click the Preview link to take a look at your changes.
         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="PostgreSQL"
       /> 
-      
-      <img
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-        alt="Nodejs"
-      />
 </br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
