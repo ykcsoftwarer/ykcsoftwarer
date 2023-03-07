@@ -1,7 +1,9 @@
 <div>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 </br>
+
 - 👋 Hi, I’m @ykcsoftwarer mechanic engineer but I find myself in software.
+</br>
 🎆 Exploring routes to new visions and be a part of the new visions.
 🧐 A new age enthusiast.
 - 👀 I’m interested in ...
