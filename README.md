@@ -1,4 +1,3 @@
-<div>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500">
 </br>
 -👋 👋 Hi, I’m @ykcsoftwarer law and mechanic engineer but I find myself in software.
@@ -157,4 +156,3 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      
      
      
-</div>
