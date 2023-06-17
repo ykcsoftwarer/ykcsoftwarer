@@ -1,7 +1,6 @@
 <div>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500">
 </br>
-</br>
 -👋 👋 Hi, I’m @ykcsoftwarer law and mechanic engineer but I find myself in software.
 </br>
 🎆 Exploring routes to new visions and be a part of the new visions.
@@ -23,9 +22,7 @@
 ✨ A lifelong learner.
 - 📫📫 How to reach me;
 - </br>
-☕ Coffee is how I keep up with code
-
-        
+☕ Coffee is how I keep up with code...     
 </br>
 
 📬📬📬📬 Connect with me:
