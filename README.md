@@ -1,22 +1,31 @@
 <div>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500">
 </br>
-- 👋 Hi, I’m @ykcsoftwarer law and mechanic engineer but I find myself in software.
+</br>
+-👋 👋 Hi, I’m @ykcsoftwarer law and mechanic engineer but I find myself in software.
 </br>
 🎆 Exploring routes to new visions and be a part of the new visions.
+</br>
+👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
+</br>
+- 🌱🌱 I’m currently learning Python, JavaScript, React, Django, Nodejs, React Native, MySQL, PostgreSQL, Git&GitHub, HTML, CSS, Sass, Bootstrap, ..... ie. IT
+- </br>
+- 💞️ I’m looking to collaborate on ...
+- </br
+☕ Coffee is how I keep up with code
+</br>
+👨‍💻 Motivated to learn, grow and excel in IT industry.
 </br>
 🧐 A new ages enthusiast.
 </br>
 - 👀 I’m interested in ...
 - </br>
-- 🌱 I’m currently learning ... ie. IT
-- </br>
-- 💞️ I’m looking to collaborate on ...
-- </br>
-- 📫 How to reach me ...
+✨ A lifelong learner.
+- 📫📫 How to reach me;
 - </br>
 ☕ Coffee is how I keep up with code
-</br>
+
+        
 </br>
 
 📬📬📬📬 Connect with me:
