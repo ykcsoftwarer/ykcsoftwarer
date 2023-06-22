@@ -7,7 +7,7 @@
 </br>
 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 </br>
-- 🌱🌱 I’m currently learning Python, JavaScript, React, Django,
+- 🌱🌱 I’m currently learning Python, JavaScript, React, Django,</br>
         Nodejs, React Native, MySQL, PostgreSQL, Git&GitHub, </br>
         HTML, CSS, Sass, Bootstrap, ..... ie. IT
 - </br>
